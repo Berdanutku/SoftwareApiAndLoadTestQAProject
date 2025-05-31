@@ -1,0 +1,1 @@
+{"uuid":"9bca634c-19d9-4fbb-835d-befecf2aa7f7","name":"SoftwareApiAndLoadTestQAProject","children":["36581776-3864-4472-aa5b-3d999d60e7f3"],"befores":[{"name":"BeforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1748703902050,"stop":1748703902919}],"afters":[],"start":1748703902013,"stop":1748703905860}
